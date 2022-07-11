@@ -5,5 +5,6 @@ length : 150 samples (all of them for train)\
 Algorithm : Decision Tree
 
 ## Model learning step by step : 
-<hr>
-![alt text](https://github.com/kiyan-rezaee/IRIS-Decision-tree/blob/main/output.png?raw=true)
+
+
+![Output](https://github.com/kiyan-rezaee/IRIS-Decision-tree/blob/main/output.png?raw=true)
