@@ -5,8 +5,8 @@ from sklearn import datasets
 iris_data = datasets.load_iris() #dictionary -> data and target and features name
 
 #understanding data
-# print(iris_data.data)
-# print(iris_data.target)
+print(iris_data.data)
+print(iris_data.target)
 # print(iris_data.feature_names) #['sepal length (cm)', 'sepal width (cm)', 'petal length (cm)', 'petal width (cm)']
 
 
